@@ -14,6 +14,9 @@ If you are not familiar with the different technologies used in this project, pl
 - [Tailwind CSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
 
+<img width="331" alt="image" src="https://github.com/ankitrout2903/Resume-AI/assets/88599131/b50fbe42-2dc7-4097-a6b3-52bc979f43b9">
+
+
 ## Learn More
 
 To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
